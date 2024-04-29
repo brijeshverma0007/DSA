@@ -1,0 +1,4 @@
+﻿  HW_3_Dikstra_Heap.cpp
+C:\Code\ADS\HW\HW_3_Dikstra_Heap\HW_3_Dikstra_Heap\HW_3_Dikstra_Heap.cpp(92,52): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Code\ADS\HW\HW_3_Dikstra_Heap\HW_3_Dikstra_Heap\HW_3_Dikstra_Heap.cpp(182,52): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  HW_3_Dikstra_Heap.vcxproj -> C:\Code\ADS\HW\HW_3_Dikstra_Heap\x64\Debug\HW_3_Dikstra_Heap.exe
